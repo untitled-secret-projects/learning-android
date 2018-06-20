@@ -4,3 +4,18 @@
 [submodule "yewwoei/ud851-Exercises"]
 	path = yewwoei/ud851-Exercises
 	url = https://github.com/udacity/ud851-Exercises
+[submodule "ud851-Sunshine"]
+	path = ud851-Sunshine
+	url = https://github.com/udacity/ud851-Sunshine
+[submodule "jinjie/ud851-Sunshine"]
+	path = jinjie/ud851-Sunshine
+	url = https://github.com/udacity/ud851-Sunshine
+[submodule "jinjie/ud851-Exercises"]
+	path = jinjie/ud851-Exercises
+	url = https://github.com/udacity/ud851-Exercises
+[submodule "yanhsien/ud851-Exercises"]
+	path = yanhsien/ud851-Exercises
+	url = https://github.com/udacity/ud851-Exercises
+[submodule "yanhsien/ud851-Sunshine"]
+	path = yanhsien/ud851-Sunshine
+	url = https://github.com/udacity/ud851-Sunshine
