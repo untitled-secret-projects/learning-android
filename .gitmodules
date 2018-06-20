@@ -1,0 +1,6 @@
+[submodule "yewwoei/ud851-Sunshine"]
+	path = yewwoei/ud851-Sunshine
+	url = https://github.com/udacity/ud851-Sunshine
+[submodule "yewwoei/ud851-Exercises"]
+	path = yewwoei/ud851-Exercises
+	url = https://github.com/udacity/ud851-Exercises
