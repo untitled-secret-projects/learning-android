@@ -42,4 +42,6 @@ If you find other great resources out there, please initiate a pull request (bas
 
 Google also has a text resource here: https://developer.android.com/training/basics/firstapp/
 
+There's A LOT of resources here: https://github.com/mikesprague/udacity-nanodegrees Not just for Android but for IOS, web, etc. Check it out!
+
 
