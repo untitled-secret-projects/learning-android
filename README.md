@@ -49,4 +49,8 @@ Google also has a text resource here: https://developer.android.com/training/bas
 
 There's A LOT of resources here: https://github.com/mikesprague/udacity-nanodegrees Not just for Android but for IOS, web, etc. Check it out!
 
+# Aim of learning Android for our project
+
+Our aim of learning android is to explore the solution stated in the Software Engineering Report (Check google docs), Section 1.4.
+
 
