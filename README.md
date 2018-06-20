@@ -38,6 +38,8 @@ https://gitforwindows.org/ for Git integration with a bash terminal.
 For now, we should use the UDACITY course created by google:
 https://www.udacity.com/course/new-android-fundamentals--ud851
 
+If the above is too complex, you can start out here: https://www.udacity.com/course/android-basics-user-interface--ud834
+
 If you find other great resources out there, please initiate a pull request (basically a request to add it into this readme page!)
 
 Google also has a text resource here: https://developer.android.com/training/basics/firstapp/
