@@ -4,7 +4,10 @@ repository for learning android
 # Set-up
 First, generate and add your computer's SSH key into your GitHub Account using the guide here: https://help.github.com/articles/connecting-to-github-with-ssh/
 
-Next, clone the repository into your desktop. This creates a working folder directory for you to start working from.
+Next, clone the repository into your desktop with `git clone <the url for this directory>`. This creates a working folder directory for you to start working from.
+
+Afterwards, use the command `git submodule update --init --recursive` to bring in the files needed for the android courses.
+
 
 # First Step: Learning Git / Github
 
